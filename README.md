@@ -9,25 +9,25 @@
 ## 🚀 Live Demo
 
 Experience TalkAnon live here: 
-👉 [![**TalkAnon**](https://img.shields.io/badge/View-Live%20Demo-indigo?style=for-the-badge)](https://theeccentriccoder.github.io/TalkAnon)
+👉 [![**TalkAnon**](https://img.shields.io/badge/View-Live%20Demo-indigo?style=for-the-badge)](https://theeccentriccoder01.github.io/TalkAnon)
 
  <div align="center">
  <p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/Visitors?path=theeccentriccoder%2FTalkAnon%20&countColor=%23263759&style=flat)
-![GitHub Forks](https://img.shields.io/github/forks/theeccentriccoder/TalkAnon)
-![GitHub Repo Stars](https://img.shields.io/github/stars/theeccentriccoder/TalkAnon)
-![GitHub Contributors](https://img.shields.io/github/contributors/theeccentriccoder/TalkAnon)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/theeccentriccoder/TalkAnon)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/theeccentriccoder/TalkAnon)
-![GitHub Total Lines](https://sloc.xyz/github/theeccentriccoder/TalkAnon)
-![Github](https://img.shields.io/github/license/theeccentriccoder/TalkAnon)
-![GitHub Issues](https://img.shields.io/github/issues/theeccentriccoder/TalkAnon)
-![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/theeccentriccoder/TalkAnon)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/theeccentriccoder/TalkAnon)
-![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/theeccentriccoder/TalkAnon)
+![Visitors](https://api.visitorbadge.io/api/Visitors?path=theeccentriccoder01%2FTalkAnon%20&countColor=%23263759&style=flat)
+![GitHub Forks](https://img.shields.io/github/forks/theeccentriccoder01/TalkAnon)
+![GitHub Repo Stars](https://img.shields.io/github/stars/theeccentriccoder01/TalkAnon)
+![GitHub Contributors](https://img.shields.io/github/contributors/theeccentriccoder01/TalkAnon)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/theeccentriccoder01/TalkAnon)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/theeccentriccoder01/TalkAnon)
+![GitHub Total Lines](https://sloc.xyz/github/theeccentriccoder01/TalkAnon)
+![Github](https://img.shields.io/github/license/theeccentriccoder01/TalkAnon)
+![GitHub Issues](https://img.shields.io/github/issues/theeccentriccoder01/TalkAnon)
+![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/theeccentriccoder01/TalkAnon)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/theeccentriccoder01/TalkAnon)
+![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/theeccentriccoder01/TalkAnon)
  </p>
  </div>
 
@@ -87,7 +87,7 @@ To run TalkAnon locally, you will need Node.js installed.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/theeccentriccoder/TalkAnon.git](https://github.com/theeccentriccoder/TalkAnon.git)
+git clone [https://github.com/theeccentriccoder01/TalkAnon.git](https://github.com/theeccentriccoder01/TalkAnon.git)
 cd TalkAnon
 ````
 
@@ -152,6 +152,6 @@ This project is open-source and available under the MIT License.
 
 ## 📞 Contact
 
-Developed by [Eccentric Explorer](https://theeccentriccoder.github.io/Me)
+Developed by [Eccentric Explorer](https://theeccentriccoder01.github.io/Me)
 
 Feel free to reach out with any questions or feedback\!
